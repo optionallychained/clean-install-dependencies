@@ -1,0 +1,14 @@
+{
+  "name": "clean-install-dependencies",
+  "version": "1.0.0",
+  "author": "optionallychained",
+  "description": "Clean install utility for node packages; supports pnpm, yarn and npm",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://git@github.com/optionallychained/clean-install-dependencies.git"
+  },
+  "bin": {
+    "cleanInstall": "./bin/clean-install.sh"
+  }
+}
